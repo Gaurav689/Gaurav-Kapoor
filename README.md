@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaurav689
 - 👀 I’m interested in AI,Machine Learning,Data Science,Automation,computer vision,robotics
-- 🌱 I’m currently learning Artificial Intelligence and Data Science 
+- 🌱 I’m currently working on Artificial Intelligence and Data Science 
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me kapoorgaurav627@gmail.com
 
